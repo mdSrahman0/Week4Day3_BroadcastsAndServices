@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week4Day3_BroadcastsAndServices</string>
+    <string name="main_text">Please change a system setting. The change will be notified
+                            back to you via a Toast message</string>
+</resources>
